@@ -1,0 +1,5 @@
+* Ass In Chair (aic)
+** Usage: aic
+** Counts the number of seconds you spend in your editor (value E in aic.c) (that is, how long your ass is in your chair, working)
+** Inspiration: Jonathan Blow
+** Platforms: Windows
